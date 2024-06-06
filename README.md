@@ -1,4 +1,5 @@
 # Phần mềm Ghi chú đơn giản
+# Tác giả: Đỗ Huy Hoàng
 ## "Ghi chú" là một ứng dụng ghi chú đơn giản cho phép người dùng tạo, chỉnh sửa, và xóa các ghi chú. Ứng dụng này được thiết kế với mục tiêu cung cấp trải nghiệm người dùng dễ dàng và trực quan trong việc quản lý các ghi chú hàng ngày. Dữ liệu của các ghi chú sẽ được lưu trữ cục bộ trên thiết bị của người dùng, sử dụng SQLite để đảm bảo tính bảo mật và truy cập nhanh chóng.
 
 ## Chức năng Chính
